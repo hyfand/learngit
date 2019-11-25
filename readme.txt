@@ -5,4 +5,4 @@ Git tracks changes.
 Git have remote respository.
 Creating a new brach is quick.
 Creating a new brach is quick again.
-Creating a new branch is quick & easy.
+Creating a new branch is quick and simple.
