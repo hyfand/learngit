@@ -14,3 +14,4 @@ build
 # My configurations:
 db.ini
 config.py
+pwd.txt
